@@ -1,7 +1,7 @@
 # subwoofer
 Framework de desenvolvimento mobile para guitarrinhas
 
-Cansado da radiação emitida com os novos smartphones?
+Cansado da radiação emitida com os novos smartphones (vide: http://bit.ly/2MLqmXu)?
 
 Temos aqui a solução: http://bit.ly/2Zvdyv9
 
